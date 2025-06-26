@@ -41,6 +41,6 @@ This project follows [The Odin Project's Calculator assignment](https://www.theo
 ## Credits
 
 - Built by [@1256639](https://github.com/1256639)
-- Inspired by [The Odin Project](https://www.theodinproject.com/) curriculum
+- Based on [The Odin Project](https://www.theodinproject.com/) curriculum
 
 ---
