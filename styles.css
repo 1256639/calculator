@@ -85,14 +85,8 @@ body {
     font-weight: bold;
 }
 
-#all-clear {
-    background: #ef476f;
-    color: #fff;
-}
-
-#clear {
-    background: #f9c74f;
-    color: #22223b;
+#all-clear, #clear {
+    grid-column: span 2;
 }
 
 #negate {
