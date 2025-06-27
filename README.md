@@ -1,7 +1,6 @@
 # Calculator
 
 [**Live Demo**](http://1256639.github.io/calculator)  
-http://1256639.github.io/calculator
 
 ---
 
